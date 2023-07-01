@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li ~ li {
+    color: white;
+    background: black;
+}
+
+ol > li {
+    color: white;
+    background: black;
+}
+
+
+#assignment-instructions {
+    color: #2ddf5c;
+    font-family: 'Anton', sans-serif;
+}
+
+code {
+    color:red;
+    font-family: 'Inconsolata', monospace;
+}
+
+
+.cgc {
+    color:green;  
+}
