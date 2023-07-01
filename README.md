@@ -3,7 +3,7 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 [https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
-![image](https://github.com/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/blob/main/Screenshots/GetStartedWithCSSUdemy.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/GetStartedWithCSSUdemy.png)
 
 
 # Finished Sections
@@ -14,7 +14,7 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/Section3-1.png)
 
 
-![](https://github.com/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/blob/main/Screenshots/Section3.gif)
+![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/Section3.gif)
 
 
 # Started Section
