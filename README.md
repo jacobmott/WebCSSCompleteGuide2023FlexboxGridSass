@@ -3,4 +3,4 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 [https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
-![image](https://media.githubusercontent.com/media/jacobmott/CPPUE5UltGameDevCrs/main/Screenshots/screenshotMainCourse2023-06-5-00.png)
+![image](https://github.com/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/blob/main/Screenshots/GetStartedWithCSSUdemy.png)
