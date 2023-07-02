@@ -17,8 +17,14 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 ![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/Section3.gif)
 
 
+## Section 4: More On Selectors & CSS Features
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-0215_41_36-slides_max1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-0215_41_36-slides_max2.png)
+
+
 # Started Section
 
-## Section 4: More On Selectors & CSS Features
+## Section 5: Practicing The Basics
 
 
