@@ -27,4 +27,4 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 ## Section 5: Practicing The Basics
 
-
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-03-21_37_21Section5Progress1.png)
