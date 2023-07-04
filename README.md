@@ -23,8 +23,14 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-0215_41_36-slides_max2.png)
 
 
-# Started Section
-
 ## Section 5: Practicing The Basics
 
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-03-21_37_21Section5Progress1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-04-15_27_21Section5-1.png)
+
+
+![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-04-15_27_21Section5-1.gif)
+
+# Started Section
+
+## Section 6: Positioning Elements With CSS
