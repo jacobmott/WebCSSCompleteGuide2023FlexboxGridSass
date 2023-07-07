@@ -31,6 +31,14 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 ![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/2023-07-04-15_27_21Section5-1.gif)
 
+## Section 6: Positioning Elements With CSS
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/PositioningElementswithCSS1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/PositioningElementswithCSS2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/PositioningElementswithCSS3.png)
+
+![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/PositioningElementswithCSS.gif)
+
 # Started Section
 
-## Section 6: Positioning Elements With CSS
+## Section 7: Understanding Background Images and Images
