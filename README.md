@@ -41,6 +41,16 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 ![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/PositioningElementswithCSS.gif)
 
+## Section 7: Understanding Background Images and Images
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs5.png)
+
+![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/UnderstandingBckImgsAndImgs.gif)
+
 # Started Section
 
-## Section 7: Understanding Background Images and Images
+## Section 8: Sizes & Units
