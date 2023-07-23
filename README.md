@@ -107,6 +107,15 @@ https://youtu.be/hziH9aXSqQs
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hziH9aXSqQs/0.jpg)](https://youtu.be/hziH9aXSqQs)
 
 
+## Section 12: Working With Text And Fonts
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts5.png)
+
+
 # Started Section
 
-## Section 12: Working With Text And Fonts
+## Section 13: Adding Flexbox to our Project
