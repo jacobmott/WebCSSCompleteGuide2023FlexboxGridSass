@@ -87,7 +87,7 @@ Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) C
 
 ![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/MakingOurWebsiteResponsive.gif)
 
- ## Section 11: Adding & Styling Forms
+## Section 11: Adding & Styling Forms
 
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/Section11AddingAndStylingForms1.png)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/Section11AddingAndStylingForms2.png)
@@ -115,7 +115,25 @@ https://youtu.be/hziH9aXSqQs
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts4.png)
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WorkingWithTextAndFonts5.png)
 
+## Section 13: Adding Flexbox To Our Project
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/AddingFlexboxToOurProject8.png)
+ 
+### Youtube vid
+
+https://youtu.be/KzRF3PlsJbg
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/KzRF3PlsJbg/0.jpg)](https://youtu.be/KzRF3PlsJbg)
+
+
 
 # Started Section
 
-## Section 13: Adding Flexbox to our Project
+## Section 14: Using the CSS Grid
