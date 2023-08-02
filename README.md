@@ -181,6 +181,27 @@ https://youtu.be/BjUkkhK2zvI
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BjUkkhK2zvI/0.jpg)](https://youtu.be/BjUkkhK2zvI)
 
 
+## Section 16: Transitions and Animations in CSS
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS9.png)
+
+![](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/TransitionsAndAnimationsInCSS.gif)
+
+### Youtube vid
+
+https://youtu.be/MiqfGHHtLA8
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MiqfGHHtLA8/0.jpg)](https://youtu.be/MiqfGHHtLA8)
+
+
 # Started Section
 
-## Section 16: Transitions and Animations in CSS
+## Section 17: Writing Future-Proof CSS Code
