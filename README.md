@@ -202,6 +202,26 @@ https://youtu.be/MiqfGHHtLA8
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MiqfGHHtLA8/0.jpg)](https://youtu.be/MiqfGHHtLA8)
 
 
+## Section 17: Writing Future-Proof CSS Code
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode10.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode11.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode12.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode13.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode14.png)
+
+
 # Started Section
 
-## Section 17: Writing Future-Proof CSS Code
+## Section 18: Introducing Sass (Syntactically Awesome Style Sheets)
+
+
