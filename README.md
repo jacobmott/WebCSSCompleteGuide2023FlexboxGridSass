@@ -1,12 +1,15 @@
 # WebCSSCompleteGuide2023FlexboxGridSass
-Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) Course on udemy. In Progress! 
+Working through CSS - The Complete Guide 2023 (incl. Flexbox, Grid &amp; Sass) Course on udemy. Finished the Course! 
 
 [https://www.udemy.com/course/unreal-engine-5-the-ultimate-game-developer-course/](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
 
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/GetStartedWithCSSUdemy.png)
 
+# Finished the Course! 
 
-# Finished Sections
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/CSS-TheCompleteGuide2023-incl-Flexbox-Grid&Sass.jpg)
+
+# Sections
 
 
 ## Section 3: Diving Deeper Into CSS
@@ -220,8 +223,20 @@ https://youtu.be/MiqfGHHtLA8
 ![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/WritingFutureProofCSSCode14.png)
 
 
-# Started Section
-
 ## Section 18: Introducing Sass (Syntactically Awesome Style Sheets)
+
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets1.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets2.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets3.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets4.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets5.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets6.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets7.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets8.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets9.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets10.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets11.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets12.png)
+![image](https://media.githubusercontent.com/media/jacobmott/WebCSSCompleteGuide2023FlexboxGridSass/main/Screenshots/IntroducingSass-SyntacticallyAwesomeStyleSheets13.png)
 
 
