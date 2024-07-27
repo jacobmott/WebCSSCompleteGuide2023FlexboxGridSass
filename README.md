@@ -241,3 +241,26 @@ https://youtu.be/MiqfGHHtLA8
 
 
 # Finished the Course! 
+
+
+
+## AWS S3 Screenshots And videos folders (Syncing/Pull/Push to)
+
+The Screenshots for this github folder is stored in s3 bucket
+  
+Pull down from bucket
+  
+```
+  aws s3 cp --recursive s3://<bucket>/WebCSSCompleteGuide2023FlexboxGridSass/Screenshots WebCSSCompleteGuide2023FlexboxGridSass/Screenshots    
+```
+
+Push to bucket
+```
+  aws s3 cp --recursive WebCSSCompleteGuide2023FlexboxGridSass/Screenshots s3://<bucket>/WebCSSCompleteGuide2023FlexboxGridSass/Screenshots
+```
+
+Or just do a sync
+```
+  aws s3 sync WebCSSCompleteGuide2023FlexboxGridSass/Screenshots s3://<bucket>/WebCSSCompleteGuide2023FlexboxGridSass/Screenshots --delete
+
+```
